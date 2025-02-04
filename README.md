@@ -2,7 +2,10 @@
 
 <h2>There are a few prerequisites to deploy Sentinel: </h2>
 
-- <b>Phishing Analysis</b>
-  - [Phishing Analysis Hands On Challenge](https://github.com/KaizenJS7/Phishing-Analysis-Hands-On-Challenge)
-  - 
-  - 
+- <b>Azure Tenant</b>
+
+- <b>Active Azure Subscription</b>
+
+- <b>Azure Resource GRoup</b>
+
+- <b>Azure Log Analytics Workspace</b>
