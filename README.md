@@ -6,6 +6,6 @@
 
 - <b>Active Azure Subscription</b>
 
-- <b>Azure Resource GRoup</b>
+- <b>Azure Resource Group</b>
 
 - <b>Azure Log Analytics Workspace</b>
